@@ -7,10 +7,10 @@
  * @link      https://dolphiq.nl/
  */
 
-namespace plugins\dolphiq\iconpicker;
+namespace plugins\selfinteractive\iconpicker;
 
 use Craft;
-use plugins\dolphiq\iconpicker\fields\Iconpicker;
+use plugins\selfinteractive\iconpicker\fields\Iconpicker;
 use craft\events\RegisterComponentTypesEvent;
 use craft\services\Fields;
 use yii\base\Event;
