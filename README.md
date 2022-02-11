@@ -22,7 +22,7 @@ You can easily use ionicons or font awesome icons
 ## Installation
 1. Install with Composer
 
-       composer require dolphiq/iconpicker
+       composer require selfinteractive/iconpicker
 
 2. Install plugin in the Craft Control Panel under Settings > Plugins
 
@@ -32,7 +32,7 @@ You can easily use ionicons or font awesome icons
 
 4. Add the fonts you want to the following directory
 
-        /vendor/dolphiq/iconpicker/src/resources-shared/fonts
+        /vendor/selfinteractive/iconpicker/src/resources-shared/fonts
 
 5. The `Iconpicker Field` type will be available when adding a new field - Settings > Fields > Add new field
 

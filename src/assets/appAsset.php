@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by Dolphiq
  * Lucas Weijers
@@ -7,6 +8,7 @@
  *
  * This asset will publish all css and js needed voor the backend application
  */
+
 namespace plugins\selfinteractive\iconpicker\assets;
 
 use craft\web\AssetBundle;
@@ -17,7 +19,7 @@ class appAsset extends AssetBundle
     public function init()
     {
         // define the path that your publishable resources live
-        $this->sourcePath = '@vendor/dolphiq/iconpicker/src/resources-app';
+        $this->sourcePath = '@vendor/selfinteractive/iconpicker/src/resources-app';
 
         // define the dependencies
         $this->depends = [

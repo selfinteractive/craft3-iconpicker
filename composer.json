@@ -1,7 +1,7 @@
 {
   "name": "selfinteractive/iconpicker",
   "description": "Craft Iconpicker field type that offers end-users an easy way to pick an icon/symbol from a .woff or .ttf font file.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "keywords": [
     "craft",
     "cms",
@@ -39,7 +39,7 @@
     "developerUrl": "https://dolphiq.nl/",
     "hasCpSettings": false,
     "hasCpSection": false,
-    "documentationUrl": "https://github.com/Dolphiq/craft3-iconpicker/blob/master/README.md",
-    "changelogUrl": "https://raw.githubusercontent.com/Dolphiq/craft3-iconpicker/master/CHANGELOG.md"
+    "documentationUrl": "https://github.com/selfinteractive/craft3-iconpicker/blob/master/README.md",
+    "changelogUrl": "https://raw.githubusercontent.com/selfinteractive/craft3-iconpicker/master/CHANGELOG.md"
   }
 }
