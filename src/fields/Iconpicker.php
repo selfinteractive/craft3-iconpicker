@@ -215,6 +215,7 @@ class Iconpicker extends Field implements PreviewableFieldInterface
 	 */
 	private function getIcons()
 	{
+		$this->iconFont = "fa-regular-400";
 		if (!empty($this->iconFont)) {
 			$fonts = $this->getFonts();
 			if (!empty($fonts) && isset($fonts[$this->iconFont])) {
