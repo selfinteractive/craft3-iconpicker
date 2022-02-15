@@ -1,7 +1,7 @@
 {
   "name": "selfinteractive/iconpicker",
   "description": "Craft Iconpicker field type that offers end-users an easy way to pick an icon/symbol from a .woff or .ttf font file.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "keywords": [
     "craft",
     "cms",
